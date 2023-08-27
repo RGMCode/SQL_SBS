@@ -145,4 +145,4 @@ Aus jedem dieser Zustände kann man jederzeit in einen der anderen Zustände wec
 </details>
 
 # Aufgaben Datenbank
-siehe Aufgaben.md
+[siehe Aufgaben.md](https://github.com/RGMCode/SQL_SBS/edit/main/Aufgaben.md)
