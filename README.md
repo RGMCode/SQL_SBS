@@ -2,23 +2,6 @@
 Banksystem
 VP, GI, SD Projekt
 
-
-<!--.
-# Aufgabenteilung
-
-| Breich | Namen | Fach |
-|--------|-----|-----|
-| GUI | Lorenzo, Daniel | VP |
-| SQL Tabelle | Rene, Daniel | GI, VP |
-| SQL Befehle | Rene, Daniel, Lorenzo | GI, VP |
-| Diagramme | Rene, Daniel, Lorenzo | SD |
-| Programmierung / Anzeigen der Daten | Lorenzo, Rene, Daniel | VP, GI |
-| Datenbank Aufgaben | Lorenzo, Rene, Daniel | GI |
-| Kontrolle | Lorenzo, Rene, Daniel | VP, GI, SD |
-| Außenstehend / bisher nichts geleistet | Rohullah | Use Case Diagramm - Beschreibung |
-
--->
-
 ### ER-Diagramm
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/29029835/221170146-22eb5930-86a5-42ea-851b-5fb6d2b0d3ec.png">
 
